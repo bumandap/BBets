@@ -42,6 +42,8 @@ The function will be given a class_size by number of students, odds, and Number_
   
 <!--Explain and display your method of coming up with a 95% confidence interval of  professor Brownlows winnings (or losings)-->
 
+### I am going to run the brlw function a 1000 different times and each time I run it I capture the number that represents how much Brownlow will make. Then I will sort the 1000 different numbers from low to high. At that point I am going to grab the lower two and a half percent.
+
 
 # What are the fair odds? Use manipulation of odds in the function to tune Brownlows earnings to zero. 
 
